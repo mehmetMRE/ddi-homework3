@@ -1,4 +1,4 @@
-#MEHMET ERTAN 203405027
+
 import snscrape.modules.twitter as sntwitter
 
 import pandas as pd
